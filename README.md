@@ -12,7 +12,6 @@ track my withdrawals and deposits with or without a data/internet connection
 
 ### App screenshot
 
-![Foto1](public/icons/Foto1.png)   
 
 ## Table of contents
 

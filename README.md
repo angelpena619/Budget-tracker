@@ -1,6 +1,5 @@
 # Budget Trackers
 
-![GitHub license](https://img.shields.io/badge/Made%20by-%40hoffman1200-orange)
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description 
